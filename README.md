@@ -23,12 +23,12 @@ This setting is specific for the **light type of** **Directional Light** to gene
 - Only **static objects** can contribute to GI
 - **Directional Light** setting→**Indirect Multiplier** must be bigger than 1(light will bounce at least once)
 
- Here is example if GI was not successed because objects are not static or Indirect Multiplier is 0
+*Here is an example of GI did not succeed because objects are not static or the Indirect Multiplier is 0*
 
-![Screenshot 2024-01-05 at 20.44.12.png](Setting-Lighting%20871febe8cde2476ea4239e649d38c258/Screenshot_2024-01-05_at_20.44.12.png)
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIFailed.png" width = 500px align="center"></picture>
 
-Here is example if GI was successed because objects are static and indirect multiplier is 70.
+*Here is an example of GI that was successful because objects are static and the indirect multiplier is 70.*
 
-![Screenshot 2024-01-05 at 20.46.53.png](Setting-Lighting%20871febe8cde2476ea4239e649d38c258/Screenshot_2024-01-05_at_20.46.53.png)
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GISuccess.png" width = 500px align="center"></picture>
 
 Realtime Global Illumination
