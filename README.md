@@ -1,6 +1,6 @@
 # Setting-Lighting
 
-<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/lightsetting.png" width = 150px align="center"></picture>
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/lightsetting.png" width = 1000px align="center"></picture>
 
 
 
