@@ -10,20 +10,21 @@ Used to set the lighting type of **GI**, there are **Baked GI** and **Realtime G
 
 ### Light Settings
 
-Save all configurations into prefab, so you can save your settings and reuse them later.
+Save all your light configurations into prefab, so you can save your settings and reuse them later.
 
 ### Realtime Lighting (Realtime Global Illumination Lighting)
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GISetting.png" width = 900px align="center"></picture>
 
 This setting is specific for the **light type of** **Directional Light** to generate the **Indirect light(GI)**, once it is opened, Directional Light can generate indirect light in realtime. It is not free and your scene must be satisfied:
 
-- Only **static objects** can contribute to GI
+- Only **static objects** can contribute to GI from Directional Light
 - **Directional Light** setting→**Indirect Multiplier** must be bigger than 1(light will bounce at least once)
 
 *Here is an example of GI did not succeed because objects are not static or the Indirect Multiplier is 0*
 
 <picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIFailed.png" width = 900px align="center"></picture>
 
-*Here is an example of GI that was successful because objects are static and the indirect multiplier is 70.*
+*Here is an example of GI that was successful because objects are static and the indirect multiplier is 70.5*
 
 <picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GISuccess.png" width = 900px align="center"></picture>
 
