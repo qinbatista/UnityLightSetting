@@ -25,11 +25,11 @@ This setting is specific for the **light type of** **Directional Light** to gene
 
 *Here is an example of GI did not succeed because objects are not static or the Indirect Multiplier is 0*
 
-<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIFailed.png" width = 500px align="center"></picture>
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIFailed.png" width = 900px align="center"></picture>
 
 *Here is an example of GI that was successful because objects are static and the indirect multiplier is 70.*
 
-<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GISuccess.png" width = 500px align="center"></picture>
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GISuccess.png" width = 900px align="center"></picture>
 
 | Option | Description |
 | ------ | ----------- |
@@ -39,5 +39,5 @@ This setting is specific for the **light type of** **Directional Light** to gene
 
 *Here are examples of different Indirect Resolutions, open in **Scene->Draw Model->Realtime Global Illumination**.*
 
-<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIResolution2.png" width = 500px align="center"></picture>
-<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIResolution8.png" width = 500px align="center"></picture>
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIResolution2.png" width = 900px align="center"></picture>
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIResolution8.png" width = 900px align="center"></picture>
