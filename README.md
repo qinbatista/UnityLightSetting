@@ -43,4 +43,4 @@ This setting is specific for the **light type of** **Directional Light** to gene
 <picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIResolution8.png" width = 900px align="center"></picture>
 
 #### Real GI showcase
-<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/SHowGI.gif" width = 900px align="center"></picture>
+![Minion](https://github.com/qinbatista/UnityLightSetting/blob/master/Images/SHowGI.gif)
