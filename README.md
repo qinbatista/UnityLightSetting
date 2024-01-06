@@ -32,7 +32,7 @@ This setting is specific for the **light type of** **Directional Light** to gene
 | ------ | ----------- |
 | Realtime Global Illumination   | Open Realtime GI for Directional Light |
 | Realtime environment Light | If **Mixed Lighting->Baked Global Illumination** is opened, open realtime GI or not |
-| Indirect Resolution    | Quality of GI, higher value leads to high quality but longer baking time, the baking time will only bake once, once it is done, the scene can use realtime GI for later static objects, and all the values saved to lighting map |
+| Indirect Resolution    | Quality of GI or light baking map, higher value leads to high quality but longer baking time. Bake once every time indirect resolution changes, after baking realtime light map, the scene can use real-time GI for later static objects, and all the values are saved to real-time Lightmaps |
 
 <picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/lightingmap.png" width = 900px align="center"></picture>
 
