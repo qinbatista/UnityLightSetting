@@ -1,11 +1,6 @@
-# Setting-Lighting
-
-<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/lightsetting.png" width = 1000px align="center"></picture>
-
-
-
 # Lighting
 
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/lightsetting.png" width = 1000px align="center"></picture>
 Lighting is the setting to configure all settings related to light, however, some light settings are in **Project Setting→Graphics, URP/HDRP setting** in the Assets folder. Even **Preferences→GI Cache is also related** to light. Another setting named Lighting **Lighting Explore** is also used for all lighting settings in the scene. It would not be obvious when beginners try to learn Unity lighting. To understand **Lighting** Settings ****in Unity, you can think they are static settings for the project, once you set them, you will not likely touch them anymore.
 
 ## Scene
