@@ -40,4 +40,7 @@ This setting is specific for the **light type of** **Directional Light** to gene
 <picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIResolution8.png" width = 900px align="center"></picture>
 
 #### Real GI showcase
+
+- Scene Location: Assets->Scene->1RealtimeGI
+
 ![Minion](https://github.com/qinbatista/UnityLightSetting/blob/master/Images/ShowGI.gif)
