@@ -37,7 +37,7 @@ This setting is specific for the **light type of** **Directional Light** to gene
 | Realtime environment Light | If **Mixed Lighting->Baked Global Illumination** is opened, open realtime GI or not |
 | Indirect Resolution    | Quality of GI, higher value leads to high quality but longer baking time. |
 
-*Here are examples of different GI resolutions, open in scene->Draw Model->Realtime Global Illumination.*
+*Here are examples of different Indirect Resolutions, open in **Scene->Draw Model->Realtime Global Illumination**.*
 
 <picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIResolution2.png" width = 500px align="center"></picture>
 <picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIResolution8.png" width = 500px align="center"></picture>
