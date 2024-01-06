@@ -41,6 +41,6 @@ This setting is specific for the **light type of** **Directional Light** to gene
 
 #### Real GI showcase
 
-- Scene Location: Assets->Scene->1RealtimeGI
+- Scene Location`Assets->Scene->1RealtimeGI`
 
 ![Minion](https://github.com/qinbatista/UnityLightSetting/blob/master/Images/ShowGI.gif)
