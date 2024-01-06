@@ -1,8 +1,8 @@
 # Setting-Lighting
 
-Status: URP
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/lightsetting.png" width = 150px align="center"></picture>
 
-![Screenshot 2024-01-05 at 18.48.08.png](Setting-Lighting%20871febe8cde2476ea4239e649d38c258/Screenshot_2024-01-05_at_18.48.08.png)
+
 
 # Lighting
 
