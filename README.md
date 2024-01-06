@@ -16,7 +16,7 @@ Used to set the lighting type of **GI**, there are **Baked GI** and **Realtime G
 
 Save all configurations into prefab, so you can save your settings and reuse them later.
 
-### **Realtime Lighting (Realtime Global Illumination Lighting)**
+### Realtime Lighting (Realtime Global Illumination Lighting)
 
 This setting is specific for the **light type of** **Directional Light** to generate the **Indirect light(GI)**, once it is opened, Directional Light can generate indirect light in realtime. It is not free and your scene must be satisfied:
 
@@ -31,4 +31,13 @@ This setting is specific for the **light type of** **Directional Light** to gene
 
 <picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GISuccess.png" width = 500px align="center"></picture>
 
-Realtime Global Illumination
+| Option | Description |
+| ------ | ----------- |
+| Realtime Global Illumination   | Open Realtime GI for Directional Light |
+| Realtime environment Light | If **Mixed Lighting->Baked Global Illumination** is opened, open realtime GI or not |
+| Indirect Resolution    | Quality of GI, higher value leads to high quality but longer baking time. |
+
+*Here are examples of different GI resolutions, open in scene->Draw Model->Realtime Global Illumination.*
+
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIResolution2.png" width = 500px align="center"></picture>
+<picture><img src="https://github.com/qinbatista/UnityLightSetting/blob/master/Images/GIResolution8.png" width = 500px align="center"></picture>
